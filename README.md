@@ -1,19 +1,14 @@
 # Hi, I'm Giovanna! 👋
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marques1026&show_icons=true&title_color=fff&icon_color=79dafa&text_color=9f9f9f&bg_color=151515" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marques1026&layout=compact&langs_count=7&title_color=fff&icon_color=79dafa&text_color=9f9f9f&bg_color=151515" />
-</div>
-
 <br/>
 
-## 🎯 About Me
+## ✨ About Me
 
-📍 Based in Hortolândia, Brazil | 17 years old.  
-🚀 My main goal is to become a **Fullstack Developer**. With discipline and determination, I pursue my goals while learning and evolving every day.
+🌟 Hey there! I'm a tech enthusiast always fueled by coffee and the excitement of seeing my code actually work! My heart beats for **Fullstack Development**, and I'm on a mission to turn complex ideas into awesome digital experiences. I believe that learning is a superpower, and I'm leveling up every single day!
 
-## 💼 Work
+## 🎓 Education & Work
 
+🍎 **Systems Development Student** at SENAI "Roberto Mange".  
 🙇‍♂️ **Systems Development Apprentice** at Robert Bosch (Campinas).
 
 ---
@@ -59,7 +54,7 @@ These are the technologies I'm currently working with or learning.
 ## 📞 Connect with me:
 
 <p align="left">
-  <a href="mailto:giovannamarquesz.lima@gmail.com" target="_blank">
+  <a href="mailto:giovannamarquesz.lima@gmail.com@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
