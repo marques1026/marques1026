@@ -1,10 +1,9 @@
 # Hi, I'm Giovanna! 👋
-
 <br/>
 
 ## ✨ About Me
 
-🌟 Hey there! I'm a tech enthusiast always fueled by coffee and the excitement of seeing my code actually work! My heart beats for **Fullstack Development**, and I'm on a mission to turn complex ideas into awesome digital experiences. I believe that learning is a superpower, and I'm leveling up every single day!
+🌟 I'm passionate about learning and constantly seeking new challenges. My main goal is to become a **Fullstack Developer**, focusing on gaining as much knowledge as possible so I can make a real impact and contribute meaningfully to every project and team I'm part of.
 
 ## 🎓 Education & Work
 
